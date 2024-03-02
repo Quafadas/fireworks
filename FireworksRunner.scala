@@ -16,7 +16,7 @@ import cats.instances.list.*
  * You should NOT modify this file.
  */
 @main def run(): Unit =
-
+  // println("hi")
   // Create a list of 10 fireworks randomly initialized
   val initFireworks = List.fill(10)(Firework.init())
 
