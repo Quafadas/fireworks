@@ -30,7 +30,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "curl -sSLf https://scala-cli.virtuslab.org/get | sh"
+	"postCreateCommand": ""
 
 	// Configure tool-specific properties.
 	// "customizations": {},
