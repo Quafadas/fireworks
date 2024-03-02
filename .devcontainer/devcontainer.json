@@ -21,7 +21,8 @@
 		},
 		"ghcr.io/devcontainers/features/node:1":{
 		},
-		"ghcr.io/devcontainers-contrib/features/scalacli-sdkman:2": {}
+		"ghcr.io/devcontainers-contrib/features/scalacli-sdkman:2": {},
+		"ghcr.io/devcontainers-contrib/features/sbt-sdkman:2": {}
 
 	},
 
