@@ -20,7 +20,8 @@
 			"version":21
 		},
 		"ghcr.io/devcontainers/features/node:1":{
-		}
+		},
+		"ghcr.io/devcontainers-contrib/features/scalacli-sdkman:2": {}
 
 	},
 
